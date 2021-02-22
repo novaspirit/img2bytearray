@@ -1,8 +1,5 @@
 # img2bytearray
-[![Discord](https://img.shields.io/discord/316245914987528193?logo=discord)](https://discord.com/invite/v8dAnFV) <iframe><html><body><script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UCrjKdwxaQMSV_NDywgKXVmw" data-layout="default" data-count="default"></body></html></div></iframe>
-
+[![Discord](https://img.shields.io/discord/316245914987528193?logo=discord)](https://discord.com/invite/v8dAnFV) [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/channel/UCrjKdwxaQMSV_NDywgKXVmw)
 
 This python program will convert an Image to Bytearray for microcontrollers screens ssd1306 / ssd1106, the output will print to terminal
 
