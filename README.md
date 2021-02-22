@@ -1,3 +1,4 @@
+[![Discord](https://img.shields.io/discord/580094191938437144?logo=discord)](https://discord.com/invite/v8dAnFV)
 # img2bytearray
 This python program will convert an Image to Bytearray for microcontrollers screens ssd1306 / ssd1106, the output will print to terminal
 
